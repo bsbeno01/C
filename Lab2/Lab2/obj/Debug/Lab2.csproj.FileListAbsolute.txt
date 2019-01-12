@@ -1,0 +1,21 @@
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.Lab2.resources
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\bsben\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.Lab2.resources
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\bsben\Documents\CIS199-02\Labs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\bsben\OneDrive\Documents\school\CIS-199\labs\1486352757712164751196829157592\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\bsben\OneDrive\Documents\school\CIS-199\labs\1486352757712164751196829157592\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\bsben\OneDrive\Documents\school\CIS-199\labs\1486352757712164751196829157592\Lab2\Lab2\obj\Debug\Lab2.pdb
